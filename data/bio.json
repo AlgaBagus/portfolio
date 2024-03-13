@@ -1,0 +1,14 @@
+{
+  "first_name": "M. Alga Bagus",
+  "last_name": "Prayoga",
+  "summary": "I'm a Graphic Designer and Android Developer.",
+  "about": "I'm Fresh Graduate of Bachelor's Degree in Informatics Engineering from STMIK Muhammadiyah Paguyangan Brebes. Have an interest in working in the field of Graphic Design and Information Technology (IT).",
+  "socials": [
+    {
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/in/m-alga-bagus-prayoga-73295b2a4"
+    },
+    { "name": "github", "link": "https://github.com/" },
+    { "name": "twitter", "link": "https://twitter.com/" }
+  ]
+}
